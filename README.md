@@ -1,6 +1,6 @@
 # 👋 Welcome to My Github
 
-🎮 I'm an Indie Unity Asset Publisher   
+🎮 I'm an indie Unity asset publisher  
 🔧 Focused on clean, lightweight tools for Unity developers.
 
 ---
